@@ -1,0 +1,26 @@
+body{
+    background-color: #a19d87;
+}
+
+h1{
+    font-size: 50px;
+    color:black;
+    font-family: fantasy;
+    text-align: center;
+}
+h2{
+    font-size: 40px;
+    color:mediumturquoise;
+    text-align: left;
+}
+.text{
+    font-size: 25px;
+    color:mediumturquoise;
+}
+
+button{
+    width: 95px;
+    height: 40px;
+    background: none;
+    border: 4px solid black;
+}
