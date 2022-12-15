@@ -24,3 +24,17 @@ button{
     background: none;
     border: 4px solid black;
 }
+
+h3{
+    font-size: 30px;
+    color:mediumturquoise;
+    text-align: center;
+}
+aside{
+    text-align: left;
+}
+section{
+    display: -webkit-flex;
+    display: flex;
+    
+}
